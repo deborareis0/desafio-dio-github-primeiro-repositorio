@@ -1,0 +1,3 @@
+link de download do git: https://git-scm.com/download/win
+
+gitbach: terminal extendido para otimizar o uso do git
